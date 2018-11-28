@@ -1,0 +1,16 @@
+com\mycompany\client\ApplicationConfig.class
+com\mycompany\client\PinMgtResource.class
+com\mycompany\model\User_.class
+com\mycompany\model\UserPin_.class
+com\mycompany\model\PinTbl.class
+com\mycompany\model\PinTbl_.class
+com\mycompany\util\ServiceResponse.class
+com\mycompany\controller\PinGenerator.class
+com\mycompany\model\User.class
+com\mycompany\util\Utility.class
+com\mycompany\controller\UserController.class
+com\mycompany\controllerImpl\PinGeneratorLocal.class
+com\mycompany\controllerImpl\UserControllerLocal.class
+com\mycompany\controller\AutomatedPinGen.class
+com\mycompany\client\UserResources.class
+com\mycompany\model\UserPin.class
